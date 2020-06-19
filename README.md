@@ -9,15 +9,16 @@ Prequesites :
 - Vagrant installed
 - Virtualbox installed
 
-* To provision the nodes, in the directory where the Vagrantfile is located run, "vagrant up"
 
-* To ssh access a node run : "vagrant ssh [vm_definetion_name]" | E.g  "vagrant ssh control"         
+To provision the nodes, in the directory where the Vagrantfile is located run, "vagrant up"
 
-* To destroy, run "vagrant destroy"
+To ssh access a node run : "vagrant ssh [vm_definetion_name]" | E.g  "vagrant ssh control"         
 
-* To suspend/save state, run "vagrant suspend"
+To destroy, run "vagrant destroy"
 
-* To resume saved state, run "vagrant resume"
+To suspend/save state, run "vagrant suspend"
+
+To resume saved state, run "vagrant resume"
 
 
 
